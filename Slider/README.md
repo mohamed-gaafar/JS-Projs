@@ -17,7 +17,6 @@ The Slider Project is a simple and interactive application that displays a serie
 3. **Looping Behavior**:
    - At the first slider, clicking the **Previous** button navigates to the last slider.
    - At the last slider, clicking the **Next** button navigates to the first slider.
-
 ---
 
 ## Features
@@ -40,7 +39,7 @@ The Slider Project is a simple and interactive application that displays a serie
 
 3. **Experience Seamless Looping**:
    - Enjoy continuous navigation as the sliders loop from the end to the start or vice versa.
-
+![Showing](slide.png)
 ---
 
 ## Requirements
