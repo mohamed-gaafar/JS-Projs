@@ -10,7 +10,7 @@ The Hangman Game is a classic word-guessing game where players try to guess a hi
 1. **Start the Game**:
    - The game begins by displaying all the letters of the alphabet on the screen.
    - You are given a **hint** (e.g., "Famous football player" or "Arab countries") and the number of letters in the hidden word.
-   
+   ![Before Start the game:](start.png)
 2. **Guess the Letters**:
    - Click on the letters you think are part of the word.
    - Correct guesses reveal the letters in their respective positions in a **guessing word box** displayed below the alphabet.
@@ -20,7 +20,7 @@ The Hangman Game is a classic word-guessing game where players try to guess a hi
    - Continue guessing letters based on the hint and revealed letters.
    - If you complete the word before the hangman is fully drawn, **you win**!
    - If the hangman drawing is completed before you guess the word, **you lose**.
-
+   ![In the Mid of the Game](mid.png)
 ---
 
 ## Features
