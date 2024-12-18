@@ -8,7 +8,8 @@ The Memory Game is an interactive and fun application designed to test and impro
 ## How to Play
 
 1. **Start the Game**:
-   - Click the **Start** button to begin.
+   - Click the **Start Game** button to begin.
+   ![Before Start Screen](starting.png)
    - Enter your name when prompted.
 
 2. **Memorize the Cards**:
@@ -17,6 +18,7 @@ The Memory Game is an interactive and fun application designed to test and impro
 
 3. **Match the Cards**:
    - Click on two cards to flip them.
+     ![Game In Progress](mid-game.png)
    - If the two cards **match**:
      - A **correct sound** plays.
      - The matched cards remain flipped to their front side.
