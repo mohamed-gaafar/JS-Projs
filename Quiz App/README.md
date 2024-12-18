@@ -56,7 +56,7 @@ The Quiz Application is an interactive and dynamic platform where users can test
 4. **Complete the Quiz**:
    - Continue answering questions until the quiz is complete.
    - Review your results at the end.
-
+![Using](quiz.png)
 ---
 
 ## Requirements
